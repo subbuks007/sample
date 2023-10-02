@@ -1,2 +1,4 @@
 Newly edited file....ontent is from fourth commit. reset was done to third commit. Now adding fifth commit.
 
+New line added
+
