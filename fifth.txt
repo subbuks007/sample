@@ -1,8 +1,3 @@
 Newly edited file....ontent is from fourth commit. reset was done to third commit. Now adding fifth commit.
-<<<<<<< HEAD
-
 New line added
-
-=======
 Testing conflict from old sample repo
->>>>>>> 91d529c (testing conflict from old sample local repo)
